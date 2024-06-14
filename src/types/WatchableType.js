@@ -3,3 +3,4 @@ export type WatchableType =
   'DOUBLE_EPISODE' |
   'SPECIAL' |
   'EQUESTRIA_GIRLS'
+  'G3' |
